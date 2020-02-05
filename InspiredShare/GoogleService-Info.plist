@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>339638794101-6sdg443b2iesom9e1ggo5104iu35il9i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.339638794101-6sdg443b2iesom9e1ggo5104iu35il9i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCGNDwPtdGRPtPBfz6_rYd2PzO_GlvLFOs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>339638794101</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.baybunar.Inspired.InspiredShare</string>
+	<key>PROJECT_ID</key>
+	<string>inspired-2f25a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>inspired-2f25a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:339638794101:ios:0de2a175c17c7fa5b4053c</string>
+	<key>DATABASE_URL</key>
+	<string>https://inspired-2f25a.firebaseio.com</string>
+</dict>
+</plist>
